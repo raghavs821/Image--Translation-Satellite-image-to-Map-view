@@ -1,1 +1,1 @@
-# Aerial-to-Maps-image-translation
+# Image Translation from the Satellite to map view.
